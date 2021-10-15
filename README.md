@@ -6,7 +6,7 @@ Featuring absolutely nothing beyond a base HTML5 template and the essential setu
 
 Includes minifiying and autoprefixing of styles `postbuild`.
 
-<small>Created by [@5t3ph](https://twitter.com/5t3ph)</small>
+<small>Created by [VietMX](https://www.maixuanviet.com/)</small>
 
 ## Development Scripts
 
@@ -24,7 +24,7 @@ Use this as the "Publish command" if needed by hosting such as Netlify.
 
 **Ensure accessible colors** by adding my [a11y-color-tokens package](https://www.npmjs.com/package/a11y-color-tokens)
 
-**Learn to build an 11ty site in 20 mins** with my [egghead video course](https://5t3ph.dev/learn-11ty) and see how to add a blog and custom data.
+**Learn to build an 11ty site in 20 mins** with my [egghead video course](https://www.maixuanviet.com/) and see how to add a blog and custom data.
 
 **Add auto-generated social media images** with [my plugin](https://www.npmjs.com/package/@11tyrocks/eleventy-plugin-social-images)
 
